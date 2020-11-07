@@ -1,2 +1,6 @@
 /target
 Cargo.lock
+/pkg
+/static
+/node_modules
+/out
